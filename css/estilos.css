@@ -4,45 +4,40 @@ body{
 
 .container {
     width: 70% ;
-    height: 20rem;
     border: 1px solid;
     margin: 0 auto;
     padding: 1em;
     -webkit-box-shadow: 16px 85px 152px -14px rgba(230,53,230,1);
     -moz-box-shadow: 16px 85px 152px -14px rgba(230,53,230,1);
     box-shadow: 16px 85px 152px -14px rgba(230,53,230,1);
-}
-.container{
     text-align: center;
 }
 
+
 #cabecera {
     width: 70%;
-    height: 15px;
-    border: collapse;
     margin: auto;   
     font-size: 20px;
-    padding: 2em;
+    padding: 1em;
     color: aliceblue;
     background: rgb(46,63,159);
     box-shadow: 1px 0px 70px rgb(176, 173, 207);
     
 
 }
-
 .container p{
     text-align: left;
-    font-size: 1em;
 }
 #cabecera #imagen{
-    width: 50px;
+    width: 40px;
+    margin-top: ;
+    
 }
-#cabecera #subText{
-    font-size: 1rem;
+#cabecera h3{
+    display: inline;
 }
 
 #footer{
-    margin-top: 8rem;
     background-color:#808080 ;
     padding: 0.5em;
     color: white;
